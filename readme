@@ -1,0 +1,36 @@
+# Los Necios Desktop
+
+Official desktop installers for Los Necios — privacy-first AI tools.
+
+## Download
+
+Get the latest version from [Releases →](https://github.com/losnecios-apps/Los-Necios-Desktop-Releases/releases)
+
+### Supported Platforms
+- macOS 10.15+ (Universal — Intel & Apple Silicon)
+- Windows 10/11
+- Linux (x86_64 AppImage)
+
+## Installation
+
+### macOS
+1. Download `Los-Necios-x.x.x-universal.dmg`
+2. Open the DMG
+3. Drag **Los Necios** to Applications
+4. Launch from Applications folder
+
+### Windows
+1. Download `Los-Necios-Setup-x.x.x.exe`
+2. Run the installer
+3. Launch from Start Menu
+
+### Linux
+1. Download `Los-Necios-x.x.x.AppImage`
+2. Make executable: `chmod +x Los-Necios-x.x.x.AppImage`
+3. Run: `./Los-Necios-x.x.x.AppImage`
+
+## Support
+Visit [losnecios.com](https://losnecios.com) or email support@losnecios.com
+
+## License
+Proprietary software. Source code is not published.
